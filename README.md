@@ -1,4 +1,4 @@
-# 💻 Título: Modelado POO: Sistema de Gestión de Medios Audiovisuales
+# 💻 Deber de POO unidad 2
 
 ## 1. 🎯 Propósito del Sistema
 
@@ -52,7 +52,7 @@ Para clonar y ejecutar la aplicación, se requiere tener **Java Development Kit 
 Utilice el siguiente comando en su terminal o Git Bash para obtener una copia local del proyecto:
 
 \`\`\`bash
-git clone https://github.com/nohemice/Poo_unidad1.git
+git clone (https://github.com/dami84579-hue/Poo_Unidad1.git)
 cd Poo_unidad1
 \`\`\`
 
@@ -66,17 +66,3 @@ cd Poo_unidad1
 1.  Abra la clase **\`PruebaAudioVisual.java\`** (ubicada en `src/poo/`).
 2.  Ejecute la clase. La aplicación demostrará el **Polimorfismo** al iterar sobre el array de la superclase (`ContenidoAudiovisual[]`) y mostrar los detalles únicos de cada tipo de medio en la consola.
 
-***
-
-## 4. 📈 Historial de Versiones (Commits Clave)
-
-El desarrollo fue gestionado mediante control de versiones para asegurar la trazabilidad de la implementación del diseño:
-
-* **[Commit 1]** **INIT**: Estructura base del proyecto.
-* **[Commit 2]** **FEAT**: Implementadas clases de asociación y sus relaciones (Agregación/Composición).
-* **[Commit 3]** **FEAT**: Añadidas subclases de extensión (`Cortometraje`, `VideoYoutube`).
-* **[Commit 4]** **DOCS**: Inclusión del Diagrama UML y el archivo README.md.
-
----
-
-Este archivo `README.md` enfatiza los aspectos de **arquitectura de software** y **trazabilidad de diseño**, ofreciendo una alternativa clara y completa al informe anterior.
